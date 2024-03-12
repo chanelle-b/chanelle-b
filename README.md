@@ -5,9 +5,6 @@
     <a href="https://github.com/chanelle-b">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=chanelle-b&theme=dark&show_icons=true&hide_border=false&count_private=true">
     </a>
-<!--     <a href="https://github.com/Tito-Osemobor">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tito-Osemobor&theme=dark&hide_border=false">
-    </a> -->
     <a href="https://github.com/chanelle-b">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanelle-b&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages">
     </a>
