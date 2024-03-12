@@ -28,7 +28,7 @@
   <img alt="SASS" src="https://img.shields.io/badge/sass-red?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-blue?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
   <img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
