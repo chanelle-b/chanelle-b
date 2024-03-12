@@ -1,5 +1,5 @@
 # Hey! I'm Chanelle 👋🏾
-**`Full-Stack Developer | Computer Programming Major @ CC`**
+**`Full-Stack Developer | Computer Programming Student @ CC`**
 
 <div>
     <a href="https://github.com/chanelle-b">
