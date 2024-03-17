@@ -6,6 +6,7 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=chanelle-b&theme=omni&show_icons=true&hide_border=false&count_private=true">
     </a>
     <br>
+    <br>
     <a href="https://github.com/chanelle-b">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanelle-b&theme=omni&show_icons=true&hide_border=false&layout=compact" alt="Top Languages">
     </a>
